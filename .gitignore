@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.history/
+Kicad/
+
+# KiCad generated files
+Kicad/**/*.lck
+Kicad/**/*.bak
+Kicad/**/~*
